@@ -5,3 +5,5 @@ Git has a mutable index calles stage.
 Git tracks changes.
 
 hello,gitub!
+
+Creating a new branch is quick.
