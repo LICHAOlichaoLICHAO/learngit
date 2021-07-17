@@ -6,6 +6,6 @@ Git tracks changes.
 
 hello,gitub!
 
-Creating a new branch is quick!!!!!!!
+Creating a new branch is quick & simple!!!!!!!
 
 test2
